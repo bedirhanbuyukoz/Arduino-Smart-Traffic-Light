@@ -1,4 +1,6 @@
 # Arduino Smart Traffic Light
+Codding with Ardunio 
+
 Our intersection control simulation project involves creating a smart traffic light.
 The aim of our project is to produce smart traffic lights and to provide safe passages using ardunio.
 
